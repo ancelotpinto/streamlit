@@ -1,3 +1,7 @@
+
+# https://medium.com/geekculture/web-page-content-analysis-made-easy-with-streamlit-a-step-by-step-guide-d5051ed6c3b7
+# example to get the details directly from the webpage, instead of having configuration
+
 import urllib.parse
 
 import requests
